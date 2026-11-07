@@ -4,7 +4,7 @@
   "description": "Turns an agent's output into audio: narration, podcast, or music.",
   "version": "0.2.3",
   "repository": {
-    "url": "https://github.com/pooriaarab/viberadio",
+    "url": "https://github.com/itsryanarmani/viberadio",
     "source": "github",
     "id": "1162043488"
   },
