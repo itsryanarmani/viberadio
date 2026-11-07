@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.pooriaarab/viberadio-fm",
+  "name": "io.github.itsryanarmani/viberadio-fm",
   "description": "Turns an agent's output into audio: narration, podcast, or music.",
   "version": "0.2.3",
   "repository": {
