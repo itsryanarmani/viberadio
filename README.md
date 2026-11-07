@@ -72,4 +72,4 @@ Set `VIBERADIO_DEBUG=1` for speech-failure details.
 
 Version 0.2.4 is pre-1.0. Interfaces can change; this package provides no managed audio service.
 The repository's interactive prototype and launch video show product direction, not shipped functionality.
-[Report an issue](https://github.com/pooriaarab/viberadio/issues) · [Vibe Suite](https://getvibe.dev) · [MIT license](https://opensource.org/license/mit)
+[Report an issue](https://github.com/itsryanarmani/viberadio/issues) · [Vibe Suite](https://getvibe.dev) · [MIT license](https://opensource.org/license/mit)

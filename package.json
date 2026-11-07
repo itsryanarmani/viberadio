@@ -35,13 +35,13 @@
     "typescript": "^5.4.0",
     "vitest": "^4.1.11"
   },
-  "homepage": "https://github.com/pooriaarab/viberadio#readme",
+  "homepage": "https://github.com/itsryanarmani/viberadio#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pooriaarab/viberadio.git"
+    "url": "git+https://github.com/itsryanarmani/viberadio.git"
   },
   "bugs": {
-    "url": "https://github.com/pooriaarab/viberadio/issues"
+    "url": "https://github.com/itsryanarmani/viberadio/issues"
   },
   "keywords": [
     "vibe-suite",
